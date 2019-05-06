@@ -1,0 +1,13 @@
+{
+  "name": "kill-child-processes",
+  "version": "2019.4.13",
+  "description": "kill child processes",
+  "keywords": [
+    "kill"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/kill-child-processes",
+  "license": "Unlicense",
+  "bin": {
+    "kill-child-processes": "./scripts/kill-child-processes"
+  }
+}
