@@ -1,6 +1,6 @@
 {
   "name": "kill-child-processes",
-  "version": "2019.5.15",
+  "version": "2020.12.3",
   "description": "kill child processes",
   "keywords": [
     "kill"
